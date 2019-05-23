@@ -1,5 +1,5 @@
 # PasswordProtection
-A lightweight program that blocks a computer requiring a password. **The default password is "sorry"** (with no quotes).
+A lightweight program for Windows that blocks a computer requiring a password. **The default password is "sorry"** (with no quotes).
 
 A file password.dat is created in the same folder as the program that allows the password to be changed.
 
