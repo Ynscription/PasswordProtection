@@ -15,3 +15,5 @@ For the program to run it requires:
     · libfreetype-6
   
     · zlib.
+    
+    · Inconsolata font (or any font as long as it's name is Inconsolata.ttf)
