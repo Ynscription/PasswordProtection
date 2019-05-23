@@ -6,12 +6,12 @@ A file password.dat is created in the same folder as the program that allows the
 # Requirements
 For the program to run it requires:
 
-  · OpenGL compatible rendering hardware
+    · OpenGL compatible rendering hardware
 
-  · SDL_2
+    · SDL_2
   
-  · SDL_2_ttf
+    · SDL_2_ttf
   
-  · libfreetype-6
+    · libfreetype-6
   
-  · zlib.
+    · zlib.
